@@ -53,5 +53,6 @@ for Adm=20v/v, get the CMRR as 186.93dB and for Adm=50v/v, get the CMRR as 194.8
 ### Inference:
 
 The simulation of the instrumentation amplifier using an ADM-series IC in LTspice demonstrates effective differential signal amplification with high common-mode noise rejection. The output accurately reflects the amplified difference between the input signals, validating the circuit’s performance in low-noise, precision applications. The gain of the amplifier responds correctly to changes in the external gain-setting resistor, confirming its predictable and stable behavior. The high input impedance and excellent common-mode rejection observed in the simulation align with theoretical expectations, making the configuration suitable for applications such as sensor signal conditioning and biomedical instrumentation.
+
 Adm=[1+2Rs/Rg]8R2/R1 used to find Rgb in this.
 
