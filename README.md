@@ -10,7 +10,10 @@ Find Acm and calculate CMRR for Adm=20v/v and 50v/v, by using LT spice simulator
 
 ### Calculations:
 For Adm=20v/v
+
 Rg=[20000/19] =10.5kΩ
+
+For Adm=50v/v
 
 Rg=[20000/49] =4.08kΩ
 
